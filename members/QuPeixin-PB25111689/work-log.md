@@ -29,7 +29,8 @@
 - **完成任务**：使用html+css书写网页版个人简历
 - **估计完成时间**：4小时
 - **相关链接**：
-  - [个人链接](https://github.com/Ayaname-Rei)
+  - [个人主页链接](https://github.com/Ayaname-Rei)
+  - [第一阶段代码链接](https://ayaname-rei.github.io/)
 - **备注**：无
 
 #### 2026-1-29
@@ -37,6 +38,7 @@
 - **估计完成时间**：4小时
 - **相关链接**：
   - [个人链接](https://github.com/Ayaname-Rei)
+  - [第一阶段代码链接](https://ayaname-rei.github.io/)
 - **备注**：无
 
 #### 2026-1-30
@@ -44,6 +46,7 @@
 - **估计完成时间**：4小时
 - **相关链接**：
   - [个人链接](https://github.com/Ayaname-Rei)
+  - [第一阶段代码链接](https://ayaname-rei.github.io/)
 - **备注**：无
 
 #### 2026-1-30
@@ -51,6 +54,7 @@
 - **估计完成时间**：4小时
 - **相关链接**：
   - [个人链接](https://github.com/Ayaname-Rei)
+  - [第一阶段代码链接](https://ayaname-rei.github.io/)
 - **备注**：无
 **（所有内容均可修改）**
 
