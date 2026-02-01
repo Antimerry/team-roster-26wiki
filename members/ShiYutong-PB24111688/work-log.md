@@ -33,6 +33,13 @@
 - **相关链接**：
   - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/resume2.0.html)
 - **备注**：无
+
+#### 2026-2-1
+- **完成任务**：修复回到顶部按钮不显示的bug
+- **估计完成时间**：1小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/resume2.0.html)
+- **备注**：无
 **（所有内容均可修改）**
 
 
